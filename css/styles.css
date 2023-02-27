@@ -40,10 +40,8 @@ body {
   font-size: 18px;
   line-height: 1.33;
 
-  display: flex;
-  align-items: center;
   letter-spacing: 0.03em;
-  text-transform: uppercase;
+
   color: var(--accent-color);
   text-decoration: none;
 }
@@ -79,7 +77,6 @@ body {
   background-color: var(--primary-text-color);
 }
 .hero-title {
-  font-style: normal;
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
@@ -101,21 +98,18 @@ body {
   background-color: var(--main-light-color);
 }
 .section-subtitle {
-  font-style: normal;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
 .section-description {
-  font-style: normal;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--main-font-color);
 }
 
 .section-title {
-  font-style: normal;
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -137,7 +131,6 @@ body {
 
 /* MAIN SERVICE */
 .services-naam {
-  font-style: normal;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -145,9 +138,6 @@ body {
   letter-spacing: 0.02em;
 }
 .services-specifics {
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--main-font-color);
@@ -161,7 +151,6 @@ body {
   color: var(--secondory-accent-color);
 }
 .foot-info {
-  font-style: normal;
   line-height: 1.2;
 
   letter-spacing: 0.02em;
